@@ -1,0 +1,7 @@
+How to open this project with VS?
+
+higher click on the project file and open with VS, then
+VS opens this project with VS.
+
+but runing with VS doesn't give the sam result as 
+>dotnet run command gives.
